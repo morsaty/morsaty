@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Kwiatkowski</h1>
 <h3 align="center">Junior Frontend developer from Poland with a strong passion. Every day, I learn something new in preparation for a career as a full-fledged front-end developer.</h3>
 
+
+
 - 🔭 I’m currently working on [Just A Trim - landing page](https://github.com/morsaty/morsaty.github.io)
 
 - 🌱 I’m currently learning **React**
