@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Just A Trim - landing page](https://github.com/morsaty/morsaty.github.io)
+- 🔭 I’m currently working on [Meme Generator - react project](https://github.com/morsaty/meme-generator)
 
 - 🌱 I’m currently learning **React**
 
